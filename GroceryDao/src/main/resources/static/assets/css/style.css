@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+.btn-primary {
+	color: #fff;
+	background-color: #81b622;
+	border-color: #81b622;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active,
+	.btn-primary.active, .open>.dropdown-toggle.btn-primary {
+	color: #fff;
+	background-color: #a4cc47;
+	border-color: #a4cc47;
+}
+
+.btn-secondary {
+	color: #fff;
+	background-color: #483030;
+	border-color: #483030;
+}
+
+.btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active,
+	.btn-secondary.active, .open>.dropdown-toggle.btn-secondary {
+	color: #fff;
+	background-color: #808080;
+	border-color: #808080;
+}
